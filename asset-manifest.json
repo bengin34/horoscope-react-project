@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/horoscope-react-project/static/css/main.07440728.css",
+    "main.js": "/horoscope-react-project/static/js/main.bce03f8f.js",
+    "static/media/logo.png": "/horoscope-react-project/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/horoscope-react-project/index.html",
+    "main.07440728.css.map": "/horoscope-react-project/static/css/main.07440728.css.map",
+    "main.bce03f8f.js.map": "/horoscope-react-project/static/js/main.bce03f8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07440728.css",
+    "static/js/main.bce03f8f.js"
+  ]
+}
